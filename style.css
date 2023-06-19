@@ -1,0 +1,17 @@
+h1{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    background: #eaeaca;
+}
+body {
+    color: whitesmoke;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 16px;
+    text-align: left;
+    background-color: cornflowerblue;
+}
+image {
+    background-color: black;
+}

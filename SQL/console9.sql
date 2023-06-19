@@ -1,0 +1,1 @@
+update blog set 'image' = '../static/img/2.jpeg' where id = 2;

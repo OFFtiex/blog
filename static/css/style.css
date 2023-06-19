@@ -1,0 +1,27 @@
+h1{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    background: #eaeaca;
+}
+body {
+    color: black;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 1.4;
+    text-align: left;
+    background-color: whitesmoke;
+}
+image {
+    background-color: black;
+}
+.round {
+    border-radius: 400px;
+    border: 3px solid green;
+    box-shadow: 0 0 7px #666;
+}
+.round-blog {
+    border-radius: 30px;
+    border: 3px solid green;
+    box-shadow: 0 0 7px #666;
+}
